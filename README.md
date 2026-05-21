@@ -1,9 +1,12 @@
 # Realtor AI Assistant
 
-Welcome to the AI Agent for Real Estate Professionals. This application is designed to streamline real estate operations, enhancing efficiency through automated communication and task management. The AI agent handles inquiries, schedules appointments, and interacts with clients across multiple platforms, making it an invaluable tool for real estate agents and agencies.
+Realtor AI Assistant is a LangGraph-based real estate agent with a Python
+backend and a React chat widget. It routes users through lead intake, property
+search criteria, database lookup, and appointment scheduling, with Google
+Calendar tools and chat, SMS, and voice entrypoints.
 
 
-## Backend: AI Agent for Real Estate Professionals
+## Backend: LangGraph Real Estate Agent
 
 ### Key Features
 
